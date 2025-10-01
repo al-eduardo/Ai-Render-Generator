@@ -1,0 +1,5 @@
+{
+  "name": "AI Interior Designer",
+  "description": "An application that uses Gemini (Nano Banana) to generate realistic interior design renderings. Users can upload images of furniture with white backgrounds to create stylish and cozy virtual rooms.",
+  "requestFramePermissions": []
+}
